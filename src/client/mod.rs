@@ -1,0 +1,15 @@
+pub mod binance;
+pub mod bitso;
+pub mod buda;
+pub mod coinbase;
+pub mod common;
+pub mod criptoya;
+pub mod cryptocom;
+pub mod cryptomkt;
+pub mod ftx;
+pub mod gateio;
+pub mod huobi;
+pub mod kucoin;
+pub mod lib;
+pub mod okx;
+pub mod ripio;
